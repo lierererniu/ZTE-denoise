@@ -67,6 +67,8 @@
 
 •加噪：高斯噪声、椒盐噪声、乘性噪声、混合噪声(椒盐+高斯、泊松+高斯)
 
+数据集裁剪和增广代码见 utils目录下 DataAugment.py    utils/DataAugment.py
+
 ## 模型
 
 ### 模型是基于DeepRFT修改的
