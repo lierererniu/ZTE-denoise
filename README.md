@@ -1,6 +1,60 @@
 # ZTE-denoise
 中兴捧月-算法赛道，初赛58.27分方案
+链接：https://pan.quark.cn/s/7c2c6717387a  提取码：yhEs
 
+ZTE-denoise
+
+``` 
+ZTE-denoise  
+├─datanpy
+		│  ├─train
+		│  │  ├─gt
+		│  │  │      gt.npy
+		│  │  │      
+		│  │  └─noisy
+		│  │          noise.npy
+		│  │          
+		│  └─val
+		│      ├─gt
+		│      │      gt.npy
+		│      └─noisy
+		│              noise.npy
+		│              
+		├─dataset
+		│  ├─test
+		│  │      noisyx.dng
+		│  │      
+		│  ├─train
+		│  │  ├─gt
+		│  │  │      x_gt.dng
+		│  │  │      
+		│  │  └─noisy
+		│  │          x_noise.dng
+		│  │          
+		│  └─val
+		│      ├─gt
+		│      │      61_gt.dng
+		│      │      99_gt.dng
+		│      │      
+		│      └─noisy
+		│              61_noise.dng
+		│              99_noise.dng    
+		├─models
+		│  │  FCA_FFTnet.py   
+		├─result
+		│  │  ...
+		│  ├─algorithm
+		│  │  └─models
+		│  │      │  ...
+		│  └─data
+		│          denoisex.dng 
+		├─testset
+		│      noisyx.dng
+		│      
+		├─utils
+		│  │  ...
+
+ ```
 
 # 解题思路
 
