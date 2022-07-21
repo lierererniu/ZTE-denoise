@@ -1,5 +1,6 @@
 # ZTE-denoise
 中兴捧月-算法赛道，初赛58.27分方案  
+比赛链接  https://zte.hina.com/zte/denoise/desc
 链接：https://pan.quark.cn/s/4854a89cefce  
 提取码：pGrM  
 最好的模型参数，裁剪后的训练和验证数据见链接  
