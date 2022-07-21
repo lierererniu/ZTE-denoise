@@ -70,8 +70,7 @@
 ## 模型
 
 ### 模型是基于DeepRFT修改的
-
-![image-20220408103540262](https://cdn.jsdelivr.net/gh/lierererniu/picnote@main/img/202204081035291.png)
+![imgae1](https://github.com/lierererniu/picnote.git/img/图片2.png)
 
 ### FCAM
 
