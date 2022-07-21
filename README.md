@@ -70,15 +70,14 @@
 ## 模型
 
 ### 模型是基于DeepRFT修改的
-![imgae1](https://github.com/lierererniu/picnote.git/img/图片2.png)
 ![image2](https://github.com/lierererniu/picnote/blob/main/img/%E5%9B%BE%E7%89%872.png)
 ### FCAM
 
-![图片4](C:\Users\53110\Desktop\图片4.jpg)
+![图片4](https://github.com/lierererniu/picnote/blob/main/img/%E5%9B%BE%E7%89%874.jpg)
 
 ### 部分结果展示
 
-![图片5](C:\Users\53110\Desktop\图片5.bmp)
+![图片5](https://github.com/lierererniu/picnote/blob/main/img/%E5%9B%BE%E7%89%875.bmp)
 
 | **模型** | **MIMOnet** | **DeepRFT** | **DeepRFAT** |
 | :------: | :---------: | :---------: | :----------: |
