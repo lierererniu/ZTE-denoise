@@ -71,7 +71,7 @@
 
 ### 模型是基于DeepRFT修改的
 
-![图片2](C:\Users\53110\Desktop\图片2.png)
+![image-20220408103540262](https://cdn.jsdelivr.net/gh/lierererniu/picnote@main/img/202204081035291.png)
 
 ### FCAM
 
